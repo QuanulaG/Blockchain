@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "0.0.0",
+  "description": "Blockchain",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "savjeecoin": "^1.0.1"
+  }
+}
